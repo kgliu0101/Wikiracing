@@ -12,7 +12,9 @@ Example:
   - End - [https://en.wikipedia.org/wiki/Algorithm](https://en.wikipedia.org/wiki/Algorithm)
 
 # How to execute
+Python 3
 
 # Files
 
 # Algorithm
+Bi-directional BFS
